@@ -10,7 +10,7 @@ Let's change long rest rule a little bit to make it a little bit more strategic.
 
 Long rest is composed of multiple blocks of 4 hours.
 Party can take as much as block as they want.
-The time spend on long rest can have multiple effect on the storyline or attrac more ennemies.
+The time spend on long rest can have multiple effect on the storyline or attract more ennemies.
 
 Rules:
 * Standing guard is not considered as rest.
