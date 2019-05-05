@@ -7,3 +7,4 @@ Bienvenue dans l'univers obscure de l'underdark. Nous sommes en 1382 post-catacl
 Cependant, notre histoire debute dans la region centrale a ses regions: Spiderpit. Regnant pendant une generation entiere d'elfe un conflit sans fin, la region connait une nouvel ere "paisible" d'autant peu etre calme une region gouverne par des drows. La Grande Matriarch Filfzyne Arabrahel gouverne d'une main de fer sur la terre asssite par les maison Filagon, Hunzrin et par la nouvelle arrivante, Baenre. En utilisant une fraction des taxes preleves, la reine mere s'occupe de conserver le status-quo et de dispenser la justice lorsque necessaire.
 
 Notre histoire prend racine sur un morceau de terrain qui fait office de chemin qui relie la ville Eryndlyn, la Capitale du village mineur de Dead Dragon Gorge. Sur cette route, quelques destins seront beintot lie ensemble.
+
