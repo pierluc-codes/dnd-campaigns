@@ -2,12 +2,11 @@
 
 ## In progress
 
-* Retrouver Bric
+* Retrouver l'intelligence de Bric
 * Aller à Asselanora
 * Trouver wtf Sigur médaillon
 * Retrouver la foi de Fargrim
 * Trouver les espions qui surveillent Lia
-* Retourner à Eastbarrow pour voir si elle est libérée
 * Tuer Jack
 * Retrouver le buddy/body de Aenil
 * Rattraper Alphonse
@@ -27,4 +26,5 @@
 * Sauver Aenil
 * Chasser LuxfordGoBike
 * Livrer des ingrédients pour la bière
-* Comprendre si Keldorn est un loup*garou
+* Comprendre si Keldorn est un loup-garou
+* Retourner à Eastbarrow pour voir si elle est libérée
