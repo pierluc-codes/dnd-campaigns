@@ -9,7 +9,6 @@
 * Trouver les espions qui surveillent Lia
 * Tuer Jack
 * Retrouver le buddy/body de Aenil
-* Rattraper Alphonse
 * Construire notre base
 * Protéger le bébé de la princesse
 
@@ -28,3 +27,4 @@
 * Livrer des ingrédients pour la bière
 * Comprendre si Keldorn est un loup-garou
 * Retourner à Eastbarrow pour voir si elle est libérée
+* Rattraper Alphonse
