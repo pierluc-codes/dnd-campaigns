@@ -1,6 +1,4 @@
----
-title: "Champignons"
----
+# Mushroom
 
 ## Mecanique
 
@@ -14,12 +12,12 @@ With foraged Mushroom, PC can brew a potion.
 * Ideally, to encourage team work, different PC can brew and forage.
 
 | Rarity 		| DC	|
-
+|-----------------------|-------|
 | Common 		| 10	|
 | Uncommon 		| 13	|
 | Rare 			| 15	|
-| Very rare 	| 20	|
-| Legendary 	| 25 	|
+| Very rare 		| 20	|
+| Legendary 		| 25 	|
 
 * Brewing prevents the decay of the mushroom.
 * Identify spells can be used to identify the main effect of the potion, but not it's side effect.
