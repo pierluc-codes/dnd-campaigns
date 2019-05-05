@@ -22,6 +22,13 @@ This block can be splitted between the whole period.
 * Elves can split their meditation period in 2h block. 
 Interrupting someone that is operating on a 4h block will cancel the resting block of this individual.
 
+Example:
+* Keldorn goes to sleep for a 4 hours block.
+* Lia meditate for a block of 2 hours.
+* After her 2 hours, Lia wake up Keldorn to mediate with him.
+Keldorn lost every rest time because it did not complete his 4 hour block.
+Lia keep her 2 hours rest because her block was completed.
+
 ## Monster frenzy
 
 For ennemy with less than 10 intelligence, when one PC goes down, the monster enter in frenzy.
