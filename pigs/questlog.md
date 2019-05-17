@@ -11,6 +11,11 @@
 * Retrouver le buddy/body de Aenil
 * Construire notre base
 * Protéger le bébé de la princesse
+* Aller au temple de Tyr
+* Chasser le Yeti (et le loup a la trois pattes)
+* Investiguer le sol empoissoné
+* Investiguer la mine
+* Parler au forgeron et l'ébéniste
 
 ## Archive
 
