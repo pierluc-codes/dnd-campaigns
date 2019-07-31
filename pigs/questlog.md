@@ -13,9 +13,6 @@
 * Protéger le bébé de la princesse
 * Aller au temple de Tyr
 * Chasser le Yeti (et le loup a la trois pattes)
-* Investiguer le sol empoissoné
-* Investiguer la mine
-* Parler au forgeron et l'ébéniste
 
 ## Archive
 
@@ -33,3 +30,6 @@
 * Comprendre si Keldorn est un loup-garou
 * Retourner à Eastbarrow pour voir si elle est libérée
 * Rattraper Alphonse
+* Parler au forgeron et l'ébéniste
+* Investiguer la mine
+* Investiguer le sol empoissoné
