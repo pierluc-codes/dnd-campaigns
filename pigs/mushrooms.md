@@ -29,7 +29,6 @@ Brewing process can combine zero, one or two (not the same) fodder.
 * Any player can forage fodder. See rules in herbalism kit.
 
 ## Mushroom
-
 ### Mountain mushroom
 * "Chanterelles in the wild" but brown
 * Rare
@@ -41,3 +40,14 @@ Brewing process can combine zero, one or two (not the same) fodder.
 	* DC 10
 * Smell BBQ
 * Taste wine
+
+## Cave mushrrom
+* "Pleurotus eryngii" but black
+* Rare
+* Hook Horror. The users hands become sharp weaponised blades.
+	* 1d10 slashing de damage
+	* 1 minutes
+* Side effect: ???
+* Mushroom smell like cut grass
+* Potion smell like gunpowder
+* Potion taste like ???
