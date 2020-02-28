@@ -51,3 +51,5 @@ Brewing process can combine zero, one or two (not the same) fodder.
 * Mushroom smell like cut grass
 * Potion smell like gunpowder
 * Potion taste like ???
+
+* "Shitakee vert phosphorescent"
